@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiet Time Hotel PimIV</string>
+    <string name="NomeHotel">HOTEL QUIET TIME</string>
+    <string name="InfoContato">Em caso de dúvidas, contate o hotel pelos seguinte meios Telefone:\n *numero hotel* Email: *email hotel*</string>
+    <string name="InfoBotoes">Utilize os botões abaixo para acessar a função desejada.</string>
+    <string name="botaoLogin">Login</string>
+    <string name="BotaoReservas">Reservas</string>
+    <string name="botaoConta">Conta</string>
+    <string name="fraseDadosReserva">Insira suas preferências para a hospedagem</string>
+    <string name="palavraSenha">Senha:</string>
+    <string name="palavraEmail">Email:</string>
+    <string name="hintEmail">email...</string>
+    <string name="hintSenha">senha...</string>
+    <string name="fraseConta">Insira seus dados abaixo para fazer login</string>
+    <string name="dataEntrada">Entrada</string>
+    <string name="dataSaida">Saida</string>
+    <string name="qtAdultos">Num Adultos</string>
+    <string name="qtCriancas">numCriancas</string>
+    <string name="valorDespesas">Total Despesas:</string>
+    <string name="botaoPesquisar">Pesquisar</string>
+    <string name="exemploLista">Aqui seria carregada uma lista com reservas disponíveis</string>
+    <string name="explicacaoConfirmar">Clicando na oferta de reserva desejada, iria para a página de confirmação. Clicando no botão abaixo há um exemplo.</string>
+    <string name="irParaConfirmacao">Confirmar Reserva</string>
+    <string name="tituloResConfirmacao">Confirmação de Reserva</string>
+    <string name="hospedeNome">Nome do hóspede:</string>
+    <string name="mensagemConta">Para criar uma conta, acesse o site do hotel e cadastre-se.</string>
+    <string name="contaSalvar">Salvar alterações</string>
+    <string name="salvarReserva">Registrar reserva</string>
+    <string name="hintNome">Nome hóspede</string>
+    <string name="entrarConta">Entrar</string>
+</resources>
